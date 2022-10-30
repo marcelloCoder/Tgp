@@ -3,7 +3,7 @@ package first.java;
 public class pessoa {
 	
 	private String nome;
-	private String spbrenome;
+	private String sobrenome;
 
 	public pessoa() {
 		// TODO Auto-generated constructor stub
@@ -18,11 +18,11 @@ public class pessoa {
 	}
 
 	public String getSpbrenome() {
-		return spbrenome;
+		return sobrenome;
 	}
 
 	public void setSpbrenome(String spbrenome) {
-		this.spbrenome = spbrenome;
+		this.sobrenome = spbrenome;
 	}
 
 }
